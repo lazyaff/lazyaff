@@ -14,7 +14,7 @@
 
 <br />
 
-<img align="right" alt="GIF" src="https://media.tenor.com/xuIQr135YOMAAAAd/mari-blue-archive.gif" height="230"  />
+<img align="right" alt="GIF" src="https://raw.githubusercontent.com/lazyaff/lazyaff/master/zeta.gif" height="230"  />
   
 ### 👨‍💻 Tech Stack
 

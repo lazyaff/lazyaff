@@ -14,7 +14,7 @@
 
 <br />
 
-<img align="right" alt="GIF" src="https://raw.githubusercontent.com/lazyaff/lazyaff/master/zeta.gif" height="230" width="260"  />
+<img align="right" alt="GIF" src="https://raw.githubusercontent.com/lazyaff/lazyaff/master/zeta.gif" height="250" width="280"  />
   
 ### 👨‍💻 Tech Stack
 

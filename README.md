@@ -1,6 +1,6 @@
-<div style=" font-size: medium; color: #447ff7" align=center>
+<div align=center>
 
-<img src="https://raw.githubusercontent.com/lazyaff/lazyaff/10e504804122d2e2f784d1c39cc2dee6feaa52ba/pacman.svg" width="200" height="200">
+<img alt="GIF" src="zeta.gif" width="150"  />
 
 ## Hello World!
 
@@ -14,8 +14,6 @@
 
 <br />
 
-<img align="right" alt="GIF" src="https://raw.githubusercontent.com/lazyaff/lazyaff/master/zeta.gif" height="250" width="280"  />
-  
 ### 👨‍💻 Tech Stack
 
 [![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat&logo=html5&logoColor=white)](https://github.com/lazyaff)

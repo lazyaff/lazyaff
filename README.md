@@ -22,12 +22,14 @@
 [![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat&logo=php&logoColor=white)](https://github.com/lazyaff)
 [![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)](https://github.com/lazyaff)
 [![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat&logo=go&logoColor=white)](https://github.com/lazyaff)
+[![Ruby](https://img.shields.io/badge/-Ruby-CC342D?style=flat&logo=ruby&logoColor=white)](https://github.com/lazyaff)
 
 [![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?style=flat&logo=laravel&logoColor=white)](https://github.com/lazyaff)
 [![CodeIgniter](https://img.shields.io/badge/-CodeIgniter-EE4623?style=flat&logo=codeigniter&logoColor=white)](https://github.com/lazyaff)
 [![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat&logo=next.js&logoColor=white)](https://github.com/lazyaff)
 [![React.js](https://img.shields.io/badge/-React.js-61DAFB?style=flat&logo=react&logoColor=white)](https://github.com/lazyaff)
 [![Gin](https://img.shields.io/badge/-Gin-00ACD7?style=flat&logo=go&logoColor=white)](https://github.com/lazyaff)
+[![Ruby on Rails](https://img.shields.io/badge/-Ruby_on_Rails-CC342D?style=flat&logo=ruby-on-rails&logoColor=white)](https://github.com/lazyaff)
 [![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white)](https://github.com/lazyaff)
 [![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)](https://github.com/lazyaff)
 

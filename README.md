@@ -9,7 +9,6 @@
 [![](https://img.shields.io/badge/Website-2D3748?style=flat&logo=About.me&Color=white)](https://profile-snowy.vercel.app)
 [![](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:faizalamri15@gmail.com)
 [![](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/faizal-amri-47a2541ba)
-[![](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/faizamr_)
 
 </div>
 
